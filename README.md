@@ -10,10 +10,10 @@ Hello, I'm Rafael Reis :call_me_hand:
 </div>
  
   ***
+
  
-  💡 Habilidades
-  
-### Linguagens |
+
+### Linguagens | :nerd_face:
   
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>  
@@ -40,10 +40,11 @@ Hello, I'm Rafael Reis :call_me_hand:
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23121011?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 ***
-
+Contato | :email:
 
   <div  <a href=" https://www.instagram.com/rafael_reis777/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafael.reisss96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-reis-096661174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=+5512992124260"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
   </div>
  
