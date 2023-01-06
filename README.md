@@ -1,7 +1,7 @@
 Hello, I'm Rafael Reis :call_me_hand:
 
  ● 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 5° semestre.
-***
+***   
  
  <div>
   <a href="https://github.com/rafaelreis1910">
@@ -43,7 +43,7 @@ Hello, I'm Rafael Reis :call_me_hand:
 Contato | :email:
 
   <div  
-  <a href = "mailto:rafael.reisss96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafaelrdosreisss"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-reis-096661174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=+5512992124260"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
   </div>
